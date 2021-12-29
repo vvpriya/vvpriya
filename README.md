@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vvpriya
+- 👋 Hi, I’m Priya
 - 👀 I’m interested in learning new things every day.
-- 🌱 I’m currently learning terraform.
-- 💞️ I’m looking to collaborate on terraform projects.
-- 📫 How to reach me : 
+- 📫 How to reach me : vani.munukutla@gmail.com
 
 <!---
 vvpriya/vvpriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
